@@ -1,0 +1,9 @@
+*.zip
+*.tar.gz
+*.mp3
+data/raw/
+data/processed/mel_specs/
+*.pt
+!data/processed/graphs/*.pt
+__pycache__/
+.ipynb_checkpoints/

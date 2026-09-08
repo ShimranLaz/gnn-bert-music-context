@@ -1,0 +1,112 @@
+[
+  {
+    "query_idx": 1,
+    "query_caption": "Music featuring classical, opera, classic",
+    "ground_truth_clip": "10",
+    "top3_retrieved_clips": [
+      "170",
+      "83",
+      "163"
+    ],
+    "hit_top3": false
+  },
+  {
+    "query_idx": 2,
+    "query_caption": "Music featuring drums, loud, no voice",
+    "ground_truth_clip": "173",
+    "top3_retrieved_clips": [
+      "173",
+      "6",
+      "11"
+    ],
+    "hit_top3": true
+  },
+  {
+    "query_idx": 3,
+    "query_caption": "Music featuring classical, slow, female, opera, male, choir, choral",
+    "ground_truth_clip": "66",
+    "top3_retrieved_clips": [
+      "74",
+      "83",
+      "56"
+    ],
+    "hit_top3": false
+  },
+  {
+    "query_idx": 4,
+    "query_caption": "Music featuring opera, quiet",
+    "ground_truth_clip": "11",
+    "top3_retrieved_clips": [
+      "74",
+      "83",
+      "56"
+    ],
+    "hit_top3": false
+  },
+  {
+    "query_idx": 5,
+    "query_caption": "Music featuring classical, strings, violin, classic",
+    "ground_truth_clip": "158",
+    "top3_retrieved_clips": [
+      "163",
+      "166",
+      "10"
+    ],
+    "hit_top3": false
+  },
+  {
+    "query_idx": 6,
+    "query_caption": "Music featuring no vocals, loud, no vocal",
+    "ground_truth_clip": "174",
+    "top3_retrieved_clips": [
+      "6",
+      "11",
+      "173"
+    ],
+    "hit_top3": false
+  },
+  {
+    "query_idx": 7,
+    "query_caption": "Instrumental music track",
+    "ground_truth_clip": "166",
+    "top3_retrieved_clips": [
+      "205",
+      "173",
+      "287"
+    ],
+    "hit_top3": false
+  },
+  {
+    "query_idx": 8,
+    "query_caption": "Music featuring techno, electronic, fast, beat, synth, no vocal",
+    "ground_truth_clip": "303",
+    "top3_retrieved_clips": [
+      "300",
+      "303",
+      "185"
+    ],
+    "hit_top3": true
+  },
+  {
+    "query_idx": 9,
+    "query_caption": "Music featuring classical, opera",
+    "ground_truth_clip": "56",
+    "top3_retrieved_clips": [
+      "83",
+      "74",
+      "66"
+    ],
+    "hit_top3": false
+  },
+  {
+    "query_idx": 10,
+    "query_caption": "Music featuring vocal, female, opera, choir",
+    "ground_truth_clip": "83",
+    "top3_retrieved_clips": [
+      "83",
+      "74",
+      "56"
+    ],
+    "hit_top3": true
+  }
+]

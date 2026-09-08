@@ -1,0 +1,21 @@
+audio:
+  sample_rate: 22050
+  duration: 29.0
+  n_mels: 128
+  n_chroma: 12
+  num_segments: 7
+  tau: 0.70
+
+model:
+  bert_backbone: "distilbert-base-uncased"
+  gnn_type: "GraphSAGE"
+  hidden_channels: 64
+  proj_dim: 128
+  num_classes: 50
+
+training:
+  batch_size: 8
+  lr_gnn: 0.0001
+  lr_bert: 0.00001
+  lr_classifier: 0.001
+  epochs: 8
